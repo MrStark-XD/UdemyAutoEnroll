@@ -2,11 +2,6 @@
 Input list of udemy free courses and let python enroll it for you. 
 
 ---
-Video POC:
-https://youtu.be/3wKDCVsBJns
-
-
----
 
 # How to Install the Requirements?
 
