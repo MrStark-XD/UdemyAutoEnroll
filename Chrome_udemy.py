@@ -5,7 +5,7 @@ import time
 import sys
 import re
 from colorama import Fore
-print(Fore.YELLOW + '''  
+print(Fore.GREEN + '''  
  _   _     _                           _         _        
 | | | | __| | ___ _ __ ___  _   _     / \  _   _| |_ ___  
 | | | |/ _` |/ _ \ '_ ` _ \| | | |   / _ \| | | | __/ _ \ 
@@ -17,6 +17,10 @@ print(Fore.YELLOW + '''
 |  _| | '_ \| '__/ _ \| | |/ _ \ '__|
 | |___| | | | | | (_) | | |  __/ |   
 |_____|_| |_|_|  \___/|_|_|\___|_|   
+
+
+  Github : https://github.com/the-avengersz\n
+  TG : https://t.me/the_avengersz
                                      
                                       
      ''')
