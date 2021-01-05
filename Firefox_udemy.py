@@ -17,8 +17,12 @@ print(Fore.YELLOW + '''
 |  _| | '_ \| '__/ _ \| | |/ _ \ '__|
 | |___| | | | | | (_) | | |  __/ |   
 |_____|_| |_|_|  \___/|_|_|\___|_|   
-                                     
-                                      
+
+
+  Github : https://github.com/the-avengersz\n
+  TG : https://t.me/the_avengersz
+                                 
+                                                                           
      ''')
 
 emailid=input(Fore.RED+ 'Enter Email Address: ')
