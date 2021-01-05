@@ -5,7 +5,7 @@ import time
 import sys
 import re
 from colorama import Fore
-print(Fore.YELLOW + '''  
+print(Fore.GREEN + '''  
  _   _     _                           _         _        
 | | | | __| | ___ _ __ ___  _   _     / \  _   _| |_ ___  
 | | | |/ _` |/ _ \ '_ ` _ \| | | |   / _ \| | | | __/ _ \ 
@@ -21,8 +21,8 @@ print(Fore.YELLOW + '''
 
   Github : https://github.com/the-avengersz\n
   TG : https://t.me/the_avengersz
-                                 
-                                                                           
+
+
      ''')
 
 emailid=input(Fore.RED+ 'Enter Email Address: ')
